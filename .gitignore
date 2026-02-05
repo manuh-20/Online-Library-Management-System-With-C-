@@ -1,0 +1,11 @@
+# Ignore Dev-C++ internal files
+*.exe
+*.lng 
+*.tips
+*.o
+*.layout
+*.win
+Makefile.win
+# Ignore folders created during compilation
+bin/
+obj/
